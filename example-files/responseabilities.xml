@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GetCourseDetailsResponse
+	xmlns="http://mx.com.challenge.Bankaya.Bean">
+
+	<CourseDetails>
+		<id>123</id>
+		<name>Spring WS</name>
+		<description>Create WS</description>
+
+	</CourseDetails>
+
+
+</GetCourseDetailsResponse>
